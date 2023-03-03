@@ -1,4 +1,4 @@
-### Hi, I'm Mateusz
+# Hi, I'm Mateusz
 ## Welcome to my GitHub account!
 
 <!--
