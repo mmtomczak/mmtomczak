@@ -18,7 +18,7 @@ I'm currently studing Data Science and Business Analytics at the University of W
 - Git/Azure DevOps
 
 ### Work Experience
-**Accenture**
+**Accenture**  
 *Intern in GenAI application development team* - 11.2023 - currently  
 
 
