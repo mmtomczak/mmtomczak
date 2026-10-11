@@ -1,13 +1,12 @@
 # Hi, I'm Mateusz
 ## Welcome to my GitHub account!
 
-I'm currently studing Data Science and Business Analytics at the University of Warsaw. I'm passionate about programming and working with data as well as learning new skills and increasing my knowlegde.
-
 ### Skills
-- `Python` (tensorflow/keras, pandas, matplotlib, numpy, fastapi, flask)
+- `Python` (tensorflow/keras, pytorch, transformers, pandas, matplotlib, numpy, fastapi, flask)
 - `SQL` (MS SQL, PostgreSQL)
 - `R`
 - `HTML/CSS`
+- Spark
 - Redis Database
 - GenAI (Azure OpenAI, RAG, function calling)
 - Docker
@@ -16,10 +15,6 @@ I'm currently studing Data Science and Business Analytics at the University of W
 - RegEx
 - EDA/ETL
 - Git/Azure DevOps
-
-### Work Experience
-**Accenture**  
-*Intern in GenAI application development team* - 11.2023 - currently  
 
 
 ### Education
